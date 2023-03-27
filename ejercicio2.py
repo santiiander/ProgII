@@ -21,4 +21,5 @@ for i in range(cantAlumnos):
         print("Legajo: ", legajos[i], " - APROBADO - ", arrayPuntaje[i])
     else:
         print("Legajo: ", legajos[i], " - DESAPROBADO - ", arrayPuntaje[i])
+"""comentario random xd"""
 
